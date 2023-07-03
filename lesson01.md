@@ -1,6 +1,5 @@
 ### Help me to learn OOP in php
 
-### Answer
 Of course! I can help you get started with Object-Oriented Programming (OOP) in PHP. Object-Oriented Programming is a programming *paradigm* that organizes code into objects, which *encapsulate* data and behavior. PHP fully supports OOP, and it offers various features such as classes, objects, inheritance, and polymorphism.
 
 Here are the fundamental concepts you need to understand to learn OOP in PHP:
